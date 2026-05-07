@@ -2,7 +2,7 @@ import re
 
 import requests
 
-API_URL = "https://technically-committed-amoeba.cloudpub.ru/parse"
+API_URL = "https://yearly-flexible-canvasback.cloudpub.ru/v1/parse"
 API_TOKEN = ""
 
 
